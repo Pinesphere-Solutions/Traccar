@@ -2,3 +2,95 @@
 2024-02-27 13:07:01  WARN: HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m55s416ms462µs300ns).
 2024-02-27 14:25:13  WARN: HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h7m41s455ms522µs900ns).
 2024-02-27 15:26:44  WARN: HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=29m227ms200µs600ns).
+2024-03-04 12:27:00  INFO: Operating system name: Windows 11 version: 10.0 architecture: amd64
+2024-03-04 12:27:00  INFO: Java runtime name: OpenJDK 64-Bit Server VM vendor: Oracle Corporation version: 21.0.2+13-58
+2024-03-04 12:27:00  INFO: Memory limit heap: 1990mb non-heap: 0mb
+2024-03-04 12:27:00  INFO: Character encoding: UTF-8
+2024-03-04 12:27:00  INFO: Version: 5.12
+2024-03-04 12:27:00  INFO: Starting server...
+2024-03-04 12:27:00  INFO: HikariPool-1 - Starting...
+2024-03-04 12:27:05 ERROR: Main method error - Access denied for user 'root'@'localhost' (using password: YES) - CJException (... < DatabaseModule:79 < <gener:-1 < *:-1 < ... < MainModule:126 < ...)
+2024-03-04 12:29:11  INFO: Operating system name: Windows 11 version: 10.0 architecture: amd64
+2024-03-04 12:29:11  INFO: Java runtime name: OpenJDK 64-Bit Server VM vendor: Oracle Corporation version: 21.0.2+13-58
+2024-03-04 12:29:11  INFO: Memory limit heap: 1990mb non-heap: 0mb
+2024-03-04 12:29:11  INFO: Character encoding: UTF-8
+2024-03-04 12:29:11  INFO: Version: 5.12
+2024-03-04 12:29:11  INFO: Starting server...
+2024-03-04 12:29:11  INFO: HikariPool-1 - Starting...
+2024-03-04 12:29:16 ERROR: Main method error - Access denied for user 'root'@'localhost' (using password: YES) - CJException (... < DatabaseModule:79 < <gener:-1 < *:-1 < ... < MainModule:126 < ...)
+2024-03-04 12:34:50  INFO: Operating system name: Windows 11 version: 10.0 architecture: amd64
+2024-03-04 12:34:50  INFO: Java runtime name: OpenJDK 64-Bit Server VM vendor: Oracle Corporation version: 21.0.2+13-58
+2024-03-04 12:34:50  INFO: Memory limit heap: 1990mb non-heap: 0mb
+2024-03-04 12:34:50  INFO: Character encoding: UTF-8
+2024-03-04 12:34:50  INFO: Version: 5.12
+2024-03-04 12:34:50  INFO: Starting server...
+2024-03-04 12:34:50  INFO: HikariPool-1 - Starting...
+2024-03-04 12:34:56 ERROR: Main method error - Unknown database '3306' - CJException (... < DatabaseModule:79 < <gener:-1 < *:-1 < ... < MainModule:126 < ...)
+2024-03-04 13:20:08  INFO: Operating system name: Windows 11 version: 10.0 architecture: amd64
+2024-03-04 13:20:08  INFO: Java runtime name: OpenJDK 64-Bit Server VM vendor: Oracle Corporation version: 21.0.2+13-58
+2024-03-04 13:20:08  INFO: Memory limit heap: 1990mb non-heap: 0mb
+2024-03-04 13:20:08  INFO: Character encoding: UTF-8
+2024-03-04 13:20:08  INFO: Version: 5.12
+2024-03-04 13:20:08  INFO: Starting server...
+2024-03-04 13:20:09  INFO: HikariPool-1 - Starting...
+2024-03-04 13:20:14 ERROR: Main method error - Access denied for user 'root'@'localhost' (using password: YES) - CJException (... < DatabaseModule:79 < <gener:-1 < *:-1 < ... < MainModule:126 < ...)
+2024-03-04 13:21:12  INFO: Operating system name: Windows 11 version: 10.0 architecture: amd64
+2024-03-04 13:21:12  INFO: Java runtime name: OpenJDK 64-Bit Server VM vendor: Eclipse Adoptium version: 17.0.6+10
+2024-03-04 13:21:12  INFO: Memory limit heap: 1990mb non-heap: 0mb
+2024-03-04 13:21:12  INFO: Character encoding: windows-1252
+2024-03-04 13:21:12  INFO: Version: 5.12
+2024-03-04 13:21:12  INFO: Starting server...
+2024-03-04 13:21:12  INFO: HikariPool-1 - Starting...
+2024-03-04 13:21:18 ERROR: Main method error - Access denied for user 'root'@'localhost' (using password: YES) - CJException (... < DatabaseModule:79 < <gener:-1 < *:-1 < ... < MainModule:126 < ...)
+2024-03-04 13:21:18  WARN: JNA: Callback org.traccar.WindowsService$ServiceMain@1e8b7643 threw the following exception - Access denied for user 'root'@'localhost' (using password: YES) - CJException (... < DatabaseModule:79 < <gener:-1 < *:-1 < ... < MainModule:126 < ...)
+2024-03-04 13:21:19  INFO: Operating system name: Windows 11 version: 10.0 architecture: amd64
+2024-03-04 13:21:19  INFO: Java runtime name: OpenJDK 64-Bit Server VM vendor: Oracle Corporation version: 21.0.2+13-58
+2024-03-04 13:21:19  INFO: Memory limit heap: 1990mb non-heap: 0mb
+2024-03-04 13:21:19  INFO: Character encoding: UTF-8
+2024-03-04 13:21:19  INFO: Version: 5.12
+2024-03-04 13:21:19  INFO: Starting server...
+2024-03-04 13:21:19  INFO: HikariPool-1 - Starting...
+2024-03-04 13:21:24 ERROR: Main method error - Access denied for user 'root'@'localhost' (using password: YES) - CJException (... < DatabaseModule:79 < <gener:-1 < *:-1 < ... < MainModule:126 < ...)
+2024-03-04 13:34:02  INFO: Operating system name: Windows 11 version: 10.0 architecture: amd64
+2024-03-04 13:34:02  INFO: Java runtime name: OpenJDK 64-Bit Server VM vendor: Oracle Corporation version: 21.0.2+13-58
+2024-03-04 13:34:02  INFO: Memory limit heap: 1990mb non-heap: 0mb
+2024-03-04 13:34:02  INFO: Character encoding: UTF-8
+2024-03-04 13:34:02  INFO: Version: 5.12
+2024-03-04 13:34:02  INFO: Starting server...
+2024-03-04 13:34:02  INFO: HikariPool-1 - Starting...
+2024-03-04 13:34:07 ERROR: Main method error - Access denied for user 'root'@'localhost' (using password: YES) - CJException (... < DatabaseModule:79 < <gener:-1 < *:-1 < ... < MainModule:126 < ...)
+2024-03-04 13:34:57  INFO: Operating system name: Windows 11 version: 10.0 architecture: amd64
+2024-03-04 13:34:57  INFO: Java runtime name: OpenJDK 64-Bit Server VM vendor: Oracle Corporation version: 21.0.2+13-58
+2024-03-04 13:34:57  INFO: Memory limit heap: 1990mb non-heap: 0mb
+2024-03-04 13:34:57  INFO: Character encoding: UTF-8
+2024-03-04 13:34:57  INFO: Version: 5.12
+2024-03-04 13:34:57  INFO: Starting server...
+2024-03-04 13:34:57  INFO: HikariPool-1 - Starting...
+2024-03-04 13:34:57  INFO: HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7674a051
+2024-03-04 13:34:57  INFO: HikariPool-1 - Start completed.
+2024-03-04 13:34:57  INFO: Clearing database change log checksums
+2024-03-04 13:34:58  INFO: Successfully acquired change log lock
+2024-03-04 13:34:58  INFO: Successfully released change log lock
+2024-03-04 13:35:00  INFO: Reading from traccar.DATABASECHANGELOG
+2024-03-04 13:35:00  INFO: Reading from traccar.DATABASECHANGELOG
+2024-03-04 13:35:00  INFO: Reading from traccar.DATABASECHANGELOG
+2024-03-04 13:35:00  INFO: UPDATE SUMMARY
+2024-03-04 13:35:00  INFO: Run:                          0
+2024-03-04 13:35:00  INFO: Previously run:              46
+2024-03-04 13:35:00  INFO: Filtered out:                 0
+2024-03-04 13:35:00  INFO: -------------------------------
+2024-03-04 13:35:00  INFO: Total change sets:           46
+
+2024-03-04 13:35:00  INFO: Update summary generated
+2024-03-04 13:35:00  INFO: Successfully released change log lock
+2024-03-04 13:35:00  INFO: Command execution complete
+2024-03-04 13:35:01  WARN: Port disabled due to conflict - Address already in use: bind - BindException (...)
+2024-03-04 13:35:02  INFO: jetty-11.0.19; built: 2023-12-15T20:54:39.802Z; git: f781e475c8fa9e9c8ce18b1eaa03110d510f905f; jvm 21.0.2+13-58
+2024-03-04 13:35:02  INFO: Started o.t.w.@454f2e55{/,null,AVAILABLE}
+2024-03-04 13:35:02  INFO: Session workerName=node0
+2024-03-04 13:35:02  WARN: JAXBContext implementation could not be found. WADL feature is disabled.
+2024-03-04 13:35:03  INFO: Started o.e.j.s.ServletContextHandler@5ef14d01{/,null,AVAILABLE}
+2024-03-04 13:35:03  INFO: Started ServerConnector@638b87d1{HTTP/1.1, (http/1.1)}{0.0.0.0:8082}
+2024-03-04 13:35:03  INFO: Started Server@637df3e{STARTING}[11.0.19,sto=0] @6618ms
+2024-03-04 13:36:02  INFO: user: 1, action: login, from: [0:0:0:0:0:0:0:1]
+2024-03-04 13:38:13  INFO: user: 1, action: edit, object: device, id: 1
