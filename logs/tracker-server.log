@@ -703,3 +703,4 @@
 2024-03-21 11:26:19  INFO: user: 1, action: create, object: device, id: 2
 2024-03-21 11:26:19  INFO: user: 1, action: link, owner: user, id: 1, property: device, id: 2
 2024-03-21 11:27:06  INFO: user: 1, action: edit, object: device, id: 2
+2024-03-21 12:17:21  INFO: user: 1, action: edit, object: device, id: 2
